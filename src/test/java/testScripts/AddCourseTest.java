@@ -10,6 +10,7 @@ import genericUtilities.IConstantPath;
 import genricUtilities.BaseClass;
 
 	public class AddCourseTest extends BaseClass {
+		// ADD COMMENT
 		 @Test
 		 public void addCourseTest() {
 			 SoftAssert soft = new SoftAssert();
